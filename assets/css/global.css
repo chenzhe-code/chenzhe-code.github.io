@@ -55,6 +55,10 @@ img.lazy {
     font-size: 100%;
 }
 
+.badge-projects {
+    font-size: 100%;
+}
+
 .email-text {
     font-family: Courier, monospace;
 }
