@@ -5,7 +5,7 @@ selected:       true
 pub:            ""
 pub_date:       "2022.09 - 2023.09"
 abstract: >-
-  As one of the developers and algorithm maintainers, I was primarily responsible for developing and maintaining urban MLS point cloud object extraction algorithms, point cloud coordinate transformation and projection algorithms, and DEM processing algorithms.
+  As one of the developers and algorithm maintainers, I developed and maintained urban MLS point cloud object extraction algorithms, point cloud coordinate transformation and projection algorithms, and DEM processing algorithms.
 
 cover:          assets/images/covers/P2M.gif
 authors:

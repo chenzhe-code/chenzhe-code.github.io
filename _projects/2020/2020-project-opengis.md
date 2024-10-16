@@ -5,7 +5,7 @@ selected:       true
 pub:            ""
 pub_date:       "2020.09 - 2021.08"
 abstract: >-
-  As a team member, I studied and organized 3D visualization materials related to Cesium and was responsible for writing the '3D Visualization Development Guide Based on Cesium.'
+  As a team member, I studied and organized 3D visualization materials related to Cesium and was responsible for writing the book titled '3D Visualization Development Guide Based on Cesium.'
 
 cover:          assets/images/covers/cesium.gif
 authors:
