@@ -1,15 +1,15 @@
 ---
-title:          'Detailed Extraction of Roadside Trees from MLS Point Cloud'
+title:          'Calculation of 3D Parameters of Roadside Trees Based on MLS Clouds'
 date:           2023-10-23 00:01:00 +0800
 selected:       true
 pub:            ""
-pub_date:       "2023.06 - 2023.10"
+pub_date:       "2023.04 - 2023.10"
 abstract: >-
-  As one of the core developers. We proposed a confidence-guided roadside tree extraction algorithm. The core idea is to first segment pole-like objects and calculate their confidence of being trees, then classify these pole-like targets into trees and non-trees. Next, we use a combination of weighted distance constraints and an allometric model to extract individual trees using the optimized minimum cut method. Based on the extraction results of individual trees, we estimate tree parameters and ultimately obtain 3D tree models through 3D modeling techniques.
+   Research group proposed a confidence-guided roadside tree extraction algorithm. Based on this algorithm, I further calculate the 3D parameters of roadside trees such as the crown volume, DBH and height, etc. The method has been integrated into Point2Model, a point cloud intelligent processing software.
 
 cover:          assets/images/covers/tree.gif
 authors:
-  - Guided by Professor Bisheng Yang and Zhen Dong from Wuhan University
+  - Guided by Prof. Bisheng Yang and Prof. Zhen Dong from Wuhan University
 
 # links:
 #   eBook: https://www.taylorfrancis.com/books/mono/10.1201/9781003486060/ubiquitous-point-cloud-bisheng-yang-zhen-dong-fuxun-liang-xiaoxin-mi
