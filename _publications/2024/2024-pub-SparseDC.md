@@ -2,7 +2,7 @@
 title:          'SparseDC: Depth Completion From Sparse and Non-uniform Inputs'
 date:           2024-5-10 00:01:00 +0800
 selected:       true
-pub:            "Information Fusion"
+pub:            "Information Fusion (IF: 14.8)"
 pub_date:       "2024"
 abstract: >-
   SparseDC is a model for Depth Completion from Sparse and non-uniform inputs. Numerous experiments conducted both indoors and outdoors show how robust and effective the framework is when facing sparse and non-uniform input depths.
