@@ -9,7 +9,7 @@ abstract: >-
 
 cover:          assets/images/covers/tree.gif
 authors:
-  - Guided by Prof. Bisheng Yang and Prof. Zhen Dong from Wuhan University
+  - Guided by Prof. Bisheng Yang and Prof. Zhen Dong from Wuhan University.
 
 # links:
 #   eBook: https://www.taylorfrancis.com/books/mono/10.1201/9781003486060/ubiquitous-point-cloud-bisheng-yang-zhen-dong-fuxun-liang-xiaoxin-mi
