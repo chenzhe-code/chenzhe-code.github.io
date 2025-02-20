@@ -1,6 +1,11 @@
 "Zhe Chen":
-  bold: False
+  bold: True
+
+"Zhe Chen*":
+  bold: True
   
+"Zhe Chen†":
+  bold: True
 
 "Bisheng Yang":
   url: https://3s.whu.edu.cn/ybs/index.htm
