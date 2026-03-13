@@ -5,20 +5,17 @@ selected:       False
 pub:            "The International Archives of the Photogrammetry Remote Sensing and Spatial Information Sciences"
 pub_date:       "2025"
 abstract: >-
-  We introduce WHU-Synthetic, a large-scale 3D synthetic perception dataset designed for multi-task learning, from the initial data augmentation, through scene understanding , to macro-level tasks. Besides, we implement several novel settings, making it possible to realize certain ideas that are difficult to achieve in real-world scenarios, such as sampling on city-level models, providing point clouds with different densities, and simulating temporal changes.
+  Vertical Greenery Systems (VGS) offer a promising solution to urban heat and energy demands, yet their evaluation using precise 3D city models remains limited. To address this, we developed a novel 3D simulation workflow—integrating microclimate, solar irradiation, and view factor computations—to assess the cooling and energy-saving potential of VGS in Wuhan, Hong Kong, and Singapore. Our results demonstrate that VGS performance is highly dependent on local climate and urban morphology, establishing a strong foundation for future city-scale optimizations.
 
-cover:          assets/images/covers/tree_species_mapping.png
+cover:          assets/images/covers/VGS.png
 authors:
-  - Zhanyu Ma
-  - Ningning Zhu
-  - Zhen Dong
-  - Ruibo Chen
-  - Bisheng Yang*
+  - Chengjie Li
   - Zhe Chen
-  - Chen Long
-  - Ruifei Ding
+  - Fuxun Liang
+  - Zhen Dong
+  - Bisheng Yang*
 
 
 links:
-  Papar: https://doi.org/10.5194/isprs-annals-X-G-2025-559-2025
+  Papar: https://doi.org/10.5194/isprs-archives-XLVIII-4-W15-2025-91-2025
 ---
