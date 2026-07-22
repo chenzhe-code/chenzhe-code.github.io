@@ -1,7 +1,7 @@
 ---
 title:          'SparseDC: Depth Completion From Sparse and Non-uniform Inputs'
 date:           2024-5-10 00:01:00 +0800
-selected:       true
+selected:       False
 pub:            "Information Fusion (IF: 14.8)"
 pub_date:       "2024"
 abstract: >-
